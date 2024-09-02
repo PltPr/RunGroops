@@ -1,142 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\migrations\\20240826121455_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\migrations\\20240826121455_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\kamil\\source\\repos\\rungroopwebapp\\rungroopwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,418 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CloudinarySettings.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Helpers\\CloudinarySettings.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Helpers\\CloudinarySettings.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Helpers\\CloudinarySettings.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Helpers\\CloudinarySettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "CreateClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:05:15.062Z",
+              "WhenOpened": "2024-09-01T23:20:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:14:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Detail.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:13:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T22:49:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Race.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Models\\Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:10:32.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:48:48.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:15:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:47:59.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAcwDQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T12:17:24.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Repository\\RaceRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\RaceRepository.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Repository\\RaceRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Repository\\RaceRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T11:10:22.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClubController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\ClubController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\ClubController.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\ClubController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\ClubController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:00:51.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:14:37.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Program.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T11:50:14.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RaceController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\RaceController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\RaceController.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\RaceController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\RaceController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:21:31.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\HomeController.cs",
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Club.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Models\\Club.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T11:52:23.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Address.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Address.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T15:50:24.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:21:50.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
-              "RelativeToolTip": "RunGroopWebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T11:20:43.93Z",
+              "WhenOpened": "2024-09-01T23:15:52.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T15:14:00.137Z"
+              "WhenOpened": "2024-09-01T23:20:16.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "DocumentIndex": 10,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\ClubRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\ClubRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Repository\\ClubRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:48:15.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Club.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Club.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Club.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Club.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\Club.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:25:57.723Z"
+              "WhenOpened": "2024-09-01T23:08:41.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IClubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Interfaces\\IClubRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IClubRepository.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Interfaces\\IClubRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IClubRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Title": "RaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\RaceRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\RaceRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\RaceRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Repository\\RaceRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:16:47.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Detail.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Detail.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Detail.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T13:55:27.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:34:35.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAB0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:15:57.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T11:53:35.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Detail.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Detail.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Detail.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T13:33:59.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T11:53:32.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T11:50:13.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:16:03.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T11:53:29.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:16:05.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Race.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Race.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Race.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\Race.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\Race.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:46:51.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ClubCategory.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:29:31.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T11:21:14.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ApplicationDBContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:25:19.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20240826121455_Init.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826121455_Init.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240826121455_Init.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826121455_Init.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Migrations\\20240826121455_Init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:14:55.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\AppUser.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:23:33.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\appsettings.Development.json",
-              "RelativeToolTip": "RunGroopWebApp\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-25T11:51:23.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RaceCategory.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\RaceCategory.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\Enum\\RaceCategory.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\RaceCategory.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Data\\Enum\\RaceCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:47:22.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\RunGroopWebApp\\RunGroopWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T11:52:13.852Z"
+              "WhenOpened": "2024-09-01T22:49:19.146Z",
+              "EditorCaption": ""
             }
           ]
         }
