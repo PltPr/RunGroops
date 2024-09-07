@@ -34,6 +34,10 @@ namespace RunGroopWebApp.Repository
         {
             return await _context.Clubs.Include(a=>a.Address).FirstOrDefaultAsync(c => c.Id == Id);
         }
+        public async Task<Club> GetByIdAsyncNoTracking(int Id)
+        {
+            return await _context.Clubs.Include(a => a.Address).AsNoTracking().FirstOrDefaultAsync(c => c.Id == Id);
+        }
 
         public async Task<IEnumerable<Club>> GetClubByCity(string city)
         {

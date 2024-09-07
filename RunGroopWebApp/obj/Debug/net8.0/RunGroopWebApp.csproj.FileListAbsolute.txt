@@ -211,3 +211,9 @@ C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\obj\Debug\net8.0\scopedc
 C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\obj\Debug\net8.0\RunGroop.A3F5C5B7.Up2Date
 C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\obj\Debug\net8.0\RunGroopWebApp.genruntimeconfig.cache
 C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\obj\Debug\net8.0\ref\RunGroopWebApp.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\etzy\Documents\GitHub\RunGroops\RunGroopWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

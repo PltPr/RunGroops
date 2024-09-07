@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\RunGroopWebApp",
-    "\\RunGroopWebApp\\Helpers"
+    "\\RunGroopWebApp\\Controllers",
+    "\\RunGroopWebApp\\ViewModels"
   ],
-  "SelectedNode": "\\RunGroopWebApp\\Helpers\\CloudinarySettings.cs",
+  "SelectedNode": "\\RunGroopWebApp\\Controllers\\ClubController.cs",
   "PreviewInSolutionExplorer": false
 }

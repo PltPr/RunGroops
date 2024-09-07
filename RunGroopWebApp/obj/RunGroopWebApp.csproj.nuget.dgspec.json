@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\RunGroopWebApp.csproj": {}
+    "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\RunGroopWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\RunGroopWebApp.csproj": {
+    "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\RunGroopWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\RunGroopWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\RunGroopWebApp.csproj",
         "projectName": "RunGroopWebApp",
-        "projectPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\RunGroopWebApp.csproj",
+        "projectPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\RunGroopWebApp.csproj",
         "packagesPath": "C:\\Users\\etzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\obj\\",
+        "outputPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,10 @@
             "CloudinaryDotNet": {
               "target": "Package",
               "version": "[1.26.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
