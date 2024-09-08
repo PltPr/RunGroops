@@ -1,0 +1,46 @@
+﻿@using RunGroopWebApp.ViewModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model RegistrationViewModel
+
+<section class="pb-4">
+  <div class="border rounded-5">
+
+    <section class="w-100 p-4 d-flex justify-content-center pb-4">
+      <form method="post" asp-action="Registration" style="width: 22rem;">
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-danger">
+                        @TempData["Error"]
+                    </div>
+                }
+        <!-- Email input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label asp-for="EmailAddress" class="form-label" for="form2Example1">Email address</label>
+          <input asp-for="EmailAddress" type="email" id="form2Example1" class="form-control" />
+          <span asp-validation-for="EmailAddress" class="text-danger"></span>
+        </div>
+
+
+        <!-- Password input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label asp-for="Password" class="form-label" for="form2Example2">Password</label>
+          <input asp-for="Password" type="password" id="form2Example2" class="form-control" />
+          <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label asp-for="RepeatPassword" class="form-label" for="form2Example2">Repeat password</label>
+          <input asp-for="RepeatPassword" type="password" id="form2Example2" class="form-control" />
+          <span asp-validation-for="RepeatPassword" class="text-danger"></span>
+        </div>
+
+
+        <!-- Submit button -->
+        <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Register in</button>
+      
+      </form>
+    </section>

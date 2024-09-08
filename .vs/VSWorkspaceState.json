@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\RunGroopWebApp",
-    "\\RunGroopWebApp\\Controllers",
-    "\\RunGroopWebApp\\ViewModels"
+    "\\RunGroopWebApp\\Repository"
   ],
-  "SelectedNode": "\\RunGroopWebApp\\Controllers\\ClubController.cs",
+  "SelectedNode": "\\RunGroopWebApp\\Repository\\ClubRepository.cs",
   "PreviewInSolutionExplorer": false
 }

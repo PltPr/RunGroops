@@ -126,5 +126,6 @@ namespace RunGroopWebApp.Controllers
                 return View("ClubVM");
             }
         }
+      
     }
 }

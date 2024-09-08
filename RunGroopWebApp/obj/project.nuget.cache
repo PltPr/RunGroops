@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GEz3FrGOWwTVomeeHa+wTfOEfMuZIlj12evIJJHfac3DovC9ltR0tqGUzsaM7VEPlaYzevrySnu4y7/W9T9ZxA==",
+  "dgSpecHash": "C6l6J+QdsigxvL9HKhXxwapbsli5fr8Qhf9oAAM4LMDrqdjW1E6FvRAhT1SAMquIz6P+pnddTpH5eWoHYo49iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\rungroopwebapp\\RunGroopWebApp.csproj",
+  "projectFilePath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\RunGroopWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etzy\\.nuget\\packages\\cloudinarydotnet\\1.26.2\\cloudinarydotnet.1.26.2.nupkg.sha512",
     "C:\\Users\\etzy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
