@@ -1,5 +1,80 @@
-﻿@*
+﻿@using RunGroopWebApp.ViewModels
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
+@model DashboardViewModel
+
+<h1 class="display-4 fw-normal">User Dashboard</h1>
+
+<div class="album py-5 bg-light">
+    <div class="container">
+        <a type="button" class="btn btn-primary" asp-action="Create" asp-controller="Club"> Create club </a>
+        <a type="button" class="btn btn-primary" asp-action="Create" asp-controller="Race"> Create race </a>
+        <h2 class="display-4 fw-normal">Your races</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            
+            @foreach (var item in Model.Races)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                        <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="@item.Image" alt="Thumbnail" />
+                        <div class="card-body">
+                                <p class="card-text">This is a running club: <b>@item.Title</b></p>
+                            <p class="card-text">@item.Description</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                        <a type="btn btn-success" asp-controller="Race" asp-action="Detail" asp-route-id="@item.Id" 
+                                            class="btn btn-sm btn-outline-secondary" >View</a>
+                                
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+                                    {
+                                        <a type="button" asp-controller="Race" asp-action="Edit" asp-route-id="@item.Id"  
+                                        class="btn btn-sm btn-outline-secondary">Edit</a>
+                                        <a type="btn btn-success" asp-controller="Race" asp-action="Delete" asp-route-id="@item.Id" 
+                                        class="btn btn-sm btn-outline-secondary" >Delete</a>
+                                    }
+                                </div>
+                            <small class="text-muted">@item.RaceCategory</small>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+            }
+            </div>
+            <h2 class="display-4 fw-normal">Your clubs</h2>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            @foreach (var item in Model.Clubs)
+            {
+                    <div class="col">
+                    <div class="card shadow-sm">
+                       <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="@item.Image" alt="Thumbnail" />
+                        <div class="card-body">
+                                <p class="card-text">This is a running club: <b>@item.Title</b></p>
+                            <p class="card-text">@item.Description</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                        <a type="btn btn-success" asp-controller="Club" asp-action="Detail" asp-route-id="@item.Id" 
+                                            class="btn btn-sm btn-outline-secondary" >View</a>
+
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+                                    {
+                                        <a type="button" asp-controller="Club" asp-action="Edit" asp-route-id="@item.Id"  
+                                        class="btn btn-sm btn-outline-secondary">Edit</a>
+                                        <a type="btn btn-success" asp-controller="Club" asp-action="Delete" asp-route-id="@item.Id" 
+                                        class="btn btn-sm btn-outline-secondary" >Delete</a>
+                                    }
+
+                                </div>
+                                <small class="text-body-secondary"><t>@item.ClubCategory</t></small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            }
+        </div>
+    </div>
+</div>

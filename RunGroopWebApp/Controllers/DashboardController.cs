@@ -1,12 +1,28 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RunGroopWebApp.Data;
+using RunGroopWebApp.Interfaces;
+using RunGroopWebApp.ViewModels;
 
 namespace RunGroopWebApp.Controllers
 {
     public class DashboardController : Controller
     {
-        public IActionResult Index()
+        private readonly IDashboardRepository _dashboardRepository;
+        public DashboardController(IDashboardRepository dashboardRepository)
         {
-            return View();
+            _dashboardRepository=dashboardRepository;
+        }
+        public async Task<IActionResult> Index()
+        {
+            var userClubs= await _dashboardRepository.GetAllUserClubs();
+            var userRaces= await _dashboardRepository.GetAllUserRaces();
+
+            var dashboard = new DashboardViewModel()
+            {
+                Races = userRaces,
+                Clubs = userClubs
+            };
+            return View(dashboard);
         }
     }
 }
