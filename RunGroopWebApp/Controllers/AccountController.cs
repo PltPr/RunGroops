@@ -21,24 +21,24 @@ namespace RunGroopWebApp.Controllers
 
         public IActionResult Login()
         {
-            var response = new LoginViewModel(); 
+            var response = new LoginViewModel();
             return View(response);
         }
         [HttpPost]
-        public async Task<IActionResult> Login (LoginViewModel loginVM)
+        public async Task<IActionResult> Login(LoginViewModel loginVM)
         {
-            if(!ModelState.IsValid) 
+            if (!ModelState.IsValid)
             {
                 return View(loginVM);
             }
             var user = await _userManager.FindByEmailAsync(loginVM.EmailAddress);
-            if (user != null) 
+            if (user != null)
             {
-                var passwordCheck= await _userManager.CheckPasswordAsync(user,loginVM.Password);
-                if(passwordCheck)
+                var passwordCheck = await _userManager.CheckPasswordAsync(user, loginVM.Password);
+                if (passwordCheck)
                 {
-                    var result = await _signInManager.PasswordSignInAsync(user,loginVM.Password,false,false);
-                    if(result.Succeeded)
+                    var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, false, false);
+                    if (result.Succeeded)
                     {
                         return RedirectToAction("Index", "Home");
                     }
@@ -59,12 +59,12 @@ namespace RunGroopWebApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Registration(RegistrationViewModel registrationVM)
         {
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(registrationVM);
             }
             var user = await _userManager.FindByEmailAsync(registrationVM.EmailAddress);
-            if(user != null) 
+            if (user != null)
             {
                 TempData["Error"] = "This email is already in use!";
                 return View(registrationVM);
@@ -74,9 +74,9 @@ namespace RunGroopWebApp.Controllers
                 Email = registrationVM.EmailAddress,
                 UserName = registrationVM.EmailAddress
             };
-            var newUserResponse = await _userManager.CreateAsync(newUser,registrationVM.Password);
+            var newUserResponse = await _userManager.CreateAsync(newUser, registrationVM.Password);
 
-            if(newUserResponse.Succeeded) 
+            if (newUserResponse.Succeeded)
             {
                 await _userManager.AddToRoleAsync(newUser, UserRoles.User);
                 return RedirectToAction("Index", "Home");

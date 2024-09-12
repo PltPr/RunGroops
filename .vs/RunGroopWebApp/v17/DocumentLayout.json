@@ -3,100 +3,172 @@
   "WorkspaceRootPath": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\dashboard\\edituserprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\dashboard\\edituserprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\interfaces\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -117,10 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,6 +213,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\migrations\\20240906234244_iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\migrations\\20240906234244_iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\etzy\\documents\\github\\rungroops\\rungroopwebapp\\migrations\\20240910185424_addcitystateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9235750-0554-47A4-A393-DE49E4769A4D}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\migrations\\20240910185424_addcitystateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -153,181 +225,142 @@
       "VerticalTabListWidth": 245,
       "DocumentGroups": [
         {
-          "DockedWidth": 190,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 311,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateRaceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T21:07:36.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClaimsPrincipalExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
-              "RelativeToolTip": "RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T20:58:53.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateClubViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
-              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T20:54:24.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBcAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T03:57:21.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T19:45:43.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T08:09:20.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\DashboardRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\DashboardRepository.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\DashboardRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Repository\\DashboardRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBMAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T21:24:37.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RaceController.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\RaceController.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\RaceController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T21:03:16.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAlwFkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:10:56.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T03:41:23.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClubController.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\ClubController.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Controllers\\ClubController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:18:35.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "RunGroopWebApp\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAIAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T07:53:19.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\User\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\User\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\User\\Detail.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\User\\Detail.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwCsAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:22:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T08:09:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:58:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
               "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
               "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-07T05:47:27.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "EditUserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T21:38:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T10:46:26.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\UserDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\UserDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:19:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:10:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:11:10.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Detail.cshtml",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Detail.cshtml",
@@ -340,118 +373,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
-              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T21:37:40.394Z",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Delete.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwDMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:08:35.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Program.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "DocumentIndex": 10,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswIwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:49:50.371Z",
+              "WhenOpened": "2024-09-08T21:03:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:32:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\DashboardRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Repository\\DashboardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:24:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:15:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:10:56.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:42:12.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwCUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T03:58:14.417Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Program.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:49:50.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T03:11:45.986Z"
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:14:16.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "IDashboardRepository.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IDashboardRepository.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IDashboardRepository.cs",
               "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IDashboardRepository.cs",
               "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IDashboardRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T21:11:10.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T21:11:10.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\AppUser.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:22:32.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Repository\\ClubRepository.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T05:52:28.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-07T06:16:23.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Registration.cshtml",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Account\\Registration.cshtml",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Registration.cshtml",
-              "RelativeToolTip": "RunGroopWebApp\\Views\\Account\\Registration.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T04:15:04.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "RegistrationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\RegistrationViewModel.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\RegistrationViewModel.cs",
@@ -463,7 +510,259 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:39:33.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:15:04.584Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T03:11:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:31:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Edit.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:34:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T19:45:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:22:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:37:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:17:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IRaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:57:21.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:11:11.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240910185424_AddCityStateImage.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Migrations\\20240910185424_AddCityStateImage.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240910185424_AddCityStateImage.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Migrations\\20240910185424_AddCityStateImage.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Migrations\\20240910185424_AddCityStateImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:54:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IClubRepository.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IClubRepository.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IClubRepository.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IClubRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:20:54.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IPhotoService.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Interfaces\\IPhotoService.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Interfaces\\IPhotoService.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Interfaces\\IPhotoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:20:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T03:57:21.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Club\\Detail.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Detail.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:07:31.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T03:58:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T03:41:23.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:54:24.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeToolTip": "RunGroopWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:07:36.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T06:16:23.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Home\\Index.cshtml",
@@ -475,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\ViewModels\\LoginViewModel.cs",
@@ -487,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Views\\Race\\Edit.cshtml",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Edit.cshtml",
@@ -499,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "Seed.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\Seed.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\Seed.cs",
@@ -511,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "UserRoles.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\UserRoles.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\UserRoles.cs",
@@ -523,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "20240906234244_IInit.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Migrations\\20240906234244_IInit.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240906234244_IInit.cs",
@@ -535,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "20240906233517_IInit.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Migrations\\20240906233517_IInit.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240906233517_IInit.cs",
@@ -547,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 51,
               "Title": "Race.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Race.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Race.cs",
@@ -559,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\ErrorViewModel.cs",
@@ -571,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "Club.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Club.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Club.cs",
@@ -583,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Models\\Address.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Address.cs",
@@ -592,18 +891,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T23:34:49.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\etzy\\Documents\\GitHub\\RunGroops\\RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:31:17.669Z"
             }
           ]
         }

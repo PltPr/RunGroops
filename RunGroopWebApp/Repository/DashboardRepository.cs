@@ -28,5 +28,23 @@ namespace RunGroopWebApp.Repository
             var userRaces = _context.Races.Where(u => u.AppUserId == curUser.ToString());
             return await userRaces.ToListAsync();
         }
+        public async Task<AppUser> GetUserById(string id)
+        {
+            return await _context.Users.FindAsync(id);
+        }
+        public async Task<AppUser> GetUserByIdNoTracking(string id)
+        {
+            return await _context.Users.AsNoTracking().FirstOrDefaultAsync(a => a.Id == id);
+        }
+        public bool Save()
+        {
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
+        }
+        public bool Update(AppUser user)
+        {
+            _context.Update(user);
+            return Save();
+        }
     }
 }

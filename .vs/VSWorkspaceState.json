@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\RunGroopWebApp",
-    "\\RunGroopWebApp\\Controllers",
-    "\\RunGroopWebApp\\Repository",
-    "\\RunGroopWebApp\\Views",
-    "\\RunGroopWebApp\\Views\\Dashboard"
+    "\\RunGroopWebApp\\Controllers"
   ],
-  "SelectedNode": "\\RunGroopWebApp.sln",
+  "SelectedNode": "\\RunGroopWebApp\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
