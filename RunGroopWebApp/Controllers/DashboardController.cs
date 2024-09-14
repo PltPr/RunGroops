@@ -32,12 +32,15 @@ namespace RunGroopWebApp.Controllers
 			};
 			return View(dashboard);
 		}
-		public async Task<IActionResult> EditUserProfile()
+		public async Task<IActionResult> EditUserProfile(string id)
 		{
-			var curUserId = _httpContextAccessor.HttpContext.User?.GetUserId();
-			var user = await _dashboardRepository.GetUserById(curUserId);
+            //var curUserId = _httpContextAccessor.HttpContext.User?.GetUserId();
+            var curUserId = id;
+            var user = await _dashboardRepository.GetUserById(curUserId);
 
-			if (user == null) { View("Error"); }
+
+
+            if (user == null) { View("Error"); }
 
 			var editUserViewModel = new EditUserViewModel
 			{
@@ -52,15 +55,15 @@ namespace RunGroopWebApp.Controllers
 			return View(editUserViewModel);
 		}
 		[HttpPost]
-		public async Task<IActionResult> EditUserProfile(EditUserViewModel userVM)
+		public async Task<IActionResult> EditUserProfile(EditUserViewModel userVM,string id)
 		{
 			if (!ModelState.IsValid)
 			{
 				ModelState.AddModelError("", "Failed to edit");
 				return View("Error");
 			}
-			var curUser = await _userManager.GetUserAsync(User);
-
+			//var curUser = await _userManager.GetUserAsync(User);
+			var curUser = await _dashboardRepository.GetUserById(id);
 
 			if (curUser != null)
 			{

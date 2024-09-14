@@ -12,7 +12,7 @@
     <div class="container">
         <a type="button" class="btn btn-primary" asp-action="Create" asp-controller="Club"> Create club </a>
         <a type="button" class="btn btn-primary" asp-action="Create" asp-controller="Race"> Create race </a>
-        <a type="button" class="btn btn-primary" asp-action="EditUserProfile" asp-controller="Dashboard"> Edit profile </a>
+        <a type="button" class="btn btn-primary" asp-action="EditUserProfile" asp-controller="Dashboard" asp-route-id="@User.GetUserId()"> Edit profile </a>
         <h2 class="display-4 fw-normal">Your races</h2>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
 

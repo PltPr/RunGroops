@@ -41,7 +41,7 @@
                         @if (User.Identity.IsAuthenticated && (User.GetUserId() == Model.Id || User.IsInRole("admin")))
                         {
                         <div class="card-footer">
-                            <a  class="btn btn-warning" asp-action="EditUserProfile" asp-controller="Dashboard">Edit</a>
+                            <a  class="btn btn-warning" asp-action="EditUserProfile" asp-controller="Dashboard" asp-route-id="@Model.Id">Edit</a>
                         </div>
                         }
                     </div>
